@@ -13,3 +13,6 @@ modificacion para que aparezca en el compu de juancho
 Escribiendo desde el vim del bash :D
 
 Ahora si desde el fooder
+
+
+Esteee es el Fooder!!!!!
