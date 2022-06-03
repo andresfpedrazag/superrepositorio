@@ -1,6 +1,4 @@
-segunda modifffficacion
-
-tercera modificaciongit 
+modifffficacionalksfjlaskjflkasjalkasjf
 
 cuarta modificacion con el html y css
 
@@ -11,3 +9,7 @@ sexta modificacion (la quinta se perdio)
 sdfbgwerbqer
 
 modificacion para que aparezca en el compu de juancho
+
+Escribiendo desde el vim del bash :D
+
+Ahora si desde el fooder
