@@ -10,6 +10,8 @@ sdfbgwerbqer
 
 modificacion para que aparezca en el compu de juancho
 
+modificacipon para hacer merge post fork
+
 Escribiendo desde el vim del bash :D
 
 Aqui esta la modificacion para provar el pullrequest
