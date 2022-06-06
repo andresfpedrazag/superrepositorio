@@ -20,6 +20,7 @@ X COSA
 
 mensaje de modificacion para probar el git-cherry-pick
 segunda modificacion tambien para el comando cherry noseque
+tercera modificacion tambien para el comando cherry noseque
 
 Ahora si desde el fooder
 
